@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @levi73159
 - 👀 I’m interested in gameDev and codeing or softwareEnginer
-- 🌱 I’m currently learning unity c#
+- 🌱 I’m currently making a 6502 computer
 - 💞️ I’m looking to collaborate on gameJams and python or c#, unity
 
 <!---
