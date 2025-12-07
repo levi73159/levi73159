@@ -1,0 +1,13 @@
+android-studio
+asm-lsp
+i686-elf-gcc-bin
+kanata
+ttf-material-design-icons-desktop-git
+ttf-material-design-icons-extended
+wlogout
+xf86-video-vmware
+yay
+zen-browser-bin
+zsh-syntax-highlighting-git
+zsh-theme-powerlevel10k-git
+zvm
