@@ -1,0 +1,24 @@
+snippet fn
+    fn ${1:name}($2) ${3:void} {
+        ${0}
+    }
+
+snippet method
+    fn ${1:name}(self: ${2:Self}) ${3:void} {
+        ${0}
+    }
+
+snippet import
+    const ${1:std} = @import("${2:std}");
+
+snippet sself
+    const Self = @This();
+
+snippet floatFromInt
+    @as(${1:f32}, @floatFromInt($0))
+
+snippet intFromFloat
+    @as(${1:i32}, @intFromFloat($0))
+
+snippet logs log scoped
+    const log = std.log.scoped(.${1:module_name});
