@@ -17,6 +17,7 @@ hyprpicker
 hyprshot
 nwg-look
 waybar
+wezterm
 swaync
 xdg-desktop-portal-hyprland
 otf-font-awesome
