@@ -36,7 +36,7 @@ gimp
 neovim
 scrcpy
 android-tools
-
+yazi
 gparted
 krita
 obs-studio
